@@ -1,0 +1,19 @@
+{
+    "name": "Przewodnik po Nowym Jorku",
+    "short_name": "Nowy Jork",
+    "theme_color": "#198230",
+    "background_color": "#198230",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons":
+    [
+        {
+            "src":"./img/icon.png",
+            "size" : "48x48",
+            "type":"image/png"
+        }
+    ]
+  }
+  
